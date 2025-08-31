@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam singh</h1>
 <h3 align="center">Machine Learning | Deep learning | computer Vision</h3>
 
-- 🌱 I’m currently learning **Django**
+- 🌱 I’m currently working on **Generative AI**
 
 - 📫 How to reach me **jawasatyam@gmail.com**
 
